@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;//hkhjkjjkjk
+using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();//hhkhkjhk
         }
 
         private void label1_Click(object sender, EventArgs e)
